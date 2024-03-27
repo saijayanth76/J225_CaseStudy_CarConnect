@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Sai jayanth
+Build-Jdk: 18
+Class-Path: mysql-connector-j-8.0.33.jar protobuf-java-3.21.9.jar
+Main-Class: com.hexaware.view.EmpMainClass
+Created-By: Maven Integration for Eclipse
+
